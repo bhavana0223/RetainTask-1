@@ -1,6 +1,6 @@
-## 1. Code Organization (25%)
+## 1. Code Organization 
 
-### Improvem\* Introduced **structured logging** across the application:
+### Improvements\* Introduced **structured logging** across the application:
 
 - Info logs for key actions (User Created, User Updated, Login Success/Fail).
 - Error logs for exceptions and invalid inputs.
@@ -35,7 +35,7 @@
 
 ---
 
-## 2. Security Improvements (25%)
+## 2. Security Improvements 
 
 ### Improvements:
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 3. Best Practices (25%)
+## 3. Best Practices 
 
 ### Improvements:
 
